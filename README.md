@@ -2,6 +2,8 @@
 
 **Text2SQL Generator** is an AI-powered tool that converts natural language questions into SQL queries. It allows users to ask questions in plain English and generates syntactically correct SQL queries for any database schema.  
 
+[Notebook](NL2SQL.ipynb)
+
 ---
 
 ## 🚀 Features
