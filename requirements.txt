@@ -1,5 +1,6 @@
-openai 
-pandas 
-sqlalchemy 
-sqlite3 
-tqdm
+python-dotenv
+streamlit
+pandas
+langchain-community
+langchain-groq
+langchain-core
