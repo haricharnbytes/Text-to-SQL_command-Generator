@@ -1,6 +1,6 @@
-# 📘 Code Explanation – Database-Aware AI Assistant
+# 📘 Code Explanation – Natural Language 2 SQL
 
-This document explains the implementation of the Database-Aware AI Assistant built using LangChain and Groq.
+This document explains the implementation of the NL2SQL AI Assistant built using LangChain and Groq.
 
 ---
 
